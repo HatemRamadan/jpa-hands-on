@@ -34,17 +34,7 @@
     <dependencies>
         <dependency>
             <groupId>io.thorntail</groupId>
-            <artifactId>jpa-eclipselink</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>io.thorntail</groupId>
             <artifactId>jaxrs</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>io.thorntail</groupId>
-            <artifactId>datasources</artifactId>
         </dependency>
 
         <dependency>
@@ -60,12 +50,6 @@
         <dependency>
             <groupId>io.thorntail</groupId>
             <artifactId>webservices</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>${version.mysql}</version>
         </dependency>
 
         <dependency>
